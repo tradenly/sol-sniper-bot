@@ -160,5 +160,6 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 The Solana Trading Bot is provided as is, for learning purposes.
 Trading cryptocurrencies and tokens involves risk, and past performance is not indicative of future results.
 The use of this bot is at your own risk, and we are not responsible for any losses incurred while using the bot.
-#   s o l - s n i p e r - b o t  
+#   s o l - s n i p e r - b o t 
+ 
  
