@@ -1,4 +1,4 @@
-Solana Trading Bot (Beta)
+Sol Trading Bot (Beta)
 
 The Solana Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain. It is configured to execute trades based on predefined parameters and strategies set by the user.
 
@@ -133,8 +133,7 @@ No token account
 
 wsol
 Contact
-
-    If you want to leave a tip, you can send it to the following address: 7gm6BPQrSBaTAYaJheuRevBNXcmKsgbkfBCVSjBnt9aP
+admin@tradenly.xyz
 
     If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support.
 
